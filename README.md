@@ -2,6 +2,7 @@
 <h1>Feito por Felipe Mussato Rodrigues, 2° Jogos Digitais</h1>
 
 <p>
+  <img src="https://github.com/lipeoo/TrabalhoTDGA/assets/162318706/b277fdf6-2daf-42de-bae3-a050ac981e7b">
   <h2>Contexto da Cena</h2>
   <h3>
     Plankton resolve atacar a fenda do biquini com seu robo maligno, querendo que todos comam no balde
